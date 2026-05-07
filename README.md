@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Banner](./public/banner/image.png)
+![Banner](./SparkAI_Frontend/public/banner/image.png)
 
 **An advanced AI-powered 3D avatar system that revolutionizes conversational learning through adaptive speech interpretation, accent-agnostic NLP, and real-time phoneme-based lip synchronization — built to understand you, not just your words.**
 
