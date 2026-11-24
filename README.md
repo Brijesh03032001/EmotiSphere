@@ -7,13 +7,12 @@
 **Most conversational AI is built for "perfect" speech. This one is built for everyone else.**
 *An intent-first pipeline that turns stuttered, accented or fragmented speech into structured intent — answered by a real-time 3D avatar with phoneme-accurate lip sync.*
 
-[![React](https://img.shields.io/badge/React-18.2-61dafb?logo=react)](https://reactjs.org/)
-[![Three.js](https://img.shields.io/badge/Three.js-R3F-black?logo=three.js)](https://threejs.org/)
-[![Ollama](https://img.shields.io/badge/Ollama-Llama%203.1%208B-blue)](https://ollama.ai/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-green?logo=mongodb)](https://www.mongodb.com/)
-[![ElevenLabs](https://img.shields.io/badge/ElevenLabs-TTS-purple)](https://elevenlabs.io/)
-[![Clerk](https://img.shields.io/badge/Clerk-JWT%20auth-6C47FF?logo=clerk&logoColor=white)](https://clerk.com)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![React 18](https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+[![Three.js / R3F](https://img.shields.io/badge/Three.js_/_R3F-111111?style=for-the-badge&logo=threedotjs&logoColor=white)](https://threejs.org/)
+[![Ollama Llama 3.1](https://img.shields.io/badge/Ollama_Llama_3.1-1F2937?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.ai/)
+[![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-2E7D4F?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![ElevenLabs](https://img.shields.io/badge/ElevenLabs-1A1A1A?style=for-the-badge&logo=elevenlabs&logoColor=white)](https://elevenlabs.io/)
+[![Clerk](https://img.shields.io/badge/Clerk-5A34D6?style=for-the-badge&logo=clerk&logoColor=white)](https://clerk.com/)
 
 **🏆 Top 3 Hackathon Winner**
 
